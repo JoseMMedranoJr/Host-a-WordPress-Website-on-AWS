@@ -1,3 +1,5 @@
+![Alt text](2._Host_a_WordPress_Website_on_AWS.png)
+
 ### README for AWS-Hosted Web App Project
 
 # Project Title
